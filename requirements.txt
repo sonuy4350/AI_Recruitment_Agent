@@ -1,0 +1,8 @@
+crewai
+streamlit
+langchain_openai
+python-dotenv
+unstructured[all-docs]
+groq
+langchain-google-genai
+plotly
